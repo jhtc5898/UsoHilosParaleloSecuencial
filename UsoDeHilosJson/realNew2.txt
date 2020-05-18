@@ -1,0 +1,20 @@
+Researchers are looking at patterns among the growing number of coronavirus patients around the world to discover how typical symptoms progress.
+According to data from China, most common symptoms so far are a fever, dry cough, and shortness of breath, but COVID-19 patients may develop only one or two of these conditions over the course of their illness.
+Research from the Chinese Center for Disease Control has suggested that about 80% of coronavirus cases are mild, but even mild cases can be painful and long-lasting. About 15% of patients in China developed severe cases, and about 5% became critically ill.
+
+A February report from the World Health Organization found that out of nearly 56,000 laboratory-confirmed cases studied in China, about 88% of patients developed a fever and more than two-thirds developed a dry cough. The share of patients who developed shortness of breath (19%) was close to the share who developed a sore throat, headache, and body aches or joint pain (about 14%).
+To dig deeper into these findings, a few Chinese hospitals — one in the city of Wuhan and two in Wenzhou — identified pattern of symptoms among their COVID-19 patients:
+Day 1: Symptoms start off mild. Patients may experience a fever, dry cough, or occasional shortness of breath. Some may also feel fatigue and muscle pain. A minority may have had diarrhea or nausea one or two days before this.
+Day 3: This is how long it took, on average, before Wenzhou patients were admitted to the hospital after their symptoms started.
+Day 5: In severe cases, symptoms could start to worsen. Patients may have difficulty breathing, especially if they are older or have a preexisting health condition.
+Day 7: This is how long it took, on average, for the Wuhan patients to be admitted to the hospital after their symptoms started.
+Day 8: By this point, patients with severe cases will have most likely developed shortness of breath, pneumonia, or acute respiratory distress syndrome, an illness that may require intubation. ARDS is often fatal.
+Day 10: If patients have worsening symptoms, this is the time in the disease's progression when they're likely to be admitted to the ICU. These patients probably have more abdominal pain and appetite loss than patients with milder cases. The virus' fatality rate is hovering at about 4%.
+Day 17: On average, people in Wuhan who recovered from the virus were discharged from the hospital after 2 1/2 weeks.
+Day 27: Some patients stay in the hospital for longer. The average hospital stay for Wenzhou patients was 27 days.
+The first symptoms, however, generally don't come right after a person has been infected. The virus' average incubation period is about five days, but it can range from two to 14 days, according to the US Centers for Disease Control and Prevention.
+
+Once symptoms do arrive, some early signs should be treated with more caution than others.
+"Body aches wouldn't be the first thing that I would ask about," Megan Coffee, an infectious-disease clinician who analyzed the Wenzhou data, told Business Insider. "I would of course always ask about shortness of breath before anything, because that's somebody who has to be immediately helped."
+Coffee said shortness of breath typically presented itself eight to 10 days into the course of the illness, but not all shortness of breath constitutes a severe case.
+"It's really important to have a primary-care doctor or someone you can talk to about your case so that you can decide whether you need to go to the emergency room or not," she said. "Right now we're having to focus on everybody who needs intubation and critical care."
